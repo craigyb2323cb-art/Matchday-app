@@ -1,0 +1,45 @@
+export default function TvBoard(){
+
+return(
+
+<div style={{
+padding:40,
+fontSize:"28px",
+textAlign:"center"
+}}>
+
+<h1>DUKE OF DEVONSHIRE</h1>
+<h2>LIVE SPORT TODAY</h2>
+
+<div>
+
+<p>
+17:30 Brighton vs Palace
+<br/>
+Sky Sports PL
+<br/>
+SKY BOX 2
+</p>
+
+<p>
+19:45 Liverpool vs Everton
+<br/>
+TNT Sports
+<br/>
+SKY BOX 3
+</p>
+
+<p>
+20:00 Arsenal vs Chelsea
+<br/>
+Sky Sports Main Event
+<br/>
+SKY BOX 1
+</p>
+
+</div>
+
+</div>
+
+)
+}
